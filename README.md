@@ -15,7 +15,7 @@ Experienced logistics coordinator going through a career change looking for impl
     <img align="center" alt="Spring" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"/>
     <img align="center" alt="Intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/a81546056ac0b15ebf4f12aa0ce91d4940052ad6/logo-mark.svg">
 
 ## Other Tecnologies
   <div style="display: inline_block"><br>
