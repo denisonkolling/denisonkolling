@@ -2,9 +2,9 @@
 
 :computer: I’m currently studying at DEVinHouse Full Stack Developer Course
 
-:construction_worker: I like to build API REST, JDBC, PostgreSQL, MongoDB  
+:construction_worker: I'm able to build API REST, with Java, Spring, JDBC, PostgreSQL, MongoDB  
 
-:iphone: I would like to learn also mobile development 
+:iphone: I'm also developing fron-end aplications with React, JavaScript, Bootstrap, Tailwind 
 
 ### About me
 Experienced logistics coordinator going through a career change looking for implement relevant solutions to businesses and companies.
